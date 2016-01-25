@@ -8,11 +8,14 @@ Joe
 Photons (original)
 -------------------------------
 ![photons_orig](Photons_original_colors.png)
+![photons_orig_term](Photons_original.png)
 
 Photons (new)
 -------------------------------
-![photons_new](Photons_new_colors.png)
+![photons_new_colors](Photons_new_colors.png)
+![photons_new](Photons_new.png)
 
 Plan9 (color dropped directly from the OS)
 -------------------------------
-![plan9](Plan9_colors.png)
+![plan9_colors](Plan9_colors.png)
+![plan9](Plan9.png)
