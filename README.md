@@ -19,3 +19,4 @@ Plan9 (color dropped directly from the OS)
 -------------------------------
 ![plan9_colors](screenshots/Plan9_colors_term.png)
 ![plan9](screenshots/Plan9.png)
+![stats](screenshots/stats.png)
