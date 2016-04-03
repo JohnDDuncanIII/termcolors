@@ -24,4 +24,4 @@ Plan9 (color dropped directly from the OS)
 Others
 -------------------------------
 ![nyquil](screenshots/nyquil.png)
-![coral-reef](screenshots/coral-reef)
+![coral-reef](screenshots/coral_reef.png)
